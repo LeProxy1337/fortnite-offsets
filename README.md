@@ -14,6 +14,6 @@ int Malloc = 0xFEE398;
 int Free = 0x3CA4AE0;  
 
 // Virtual Indexs  
-int DrawTitleSafeArea = 0x380 / 0x8;  
+int DrawTransition = 0x380 / 0x8;  
 int ProcessEvent = 0x260 / 0x8;  
 int GetMaterial = 0x2C8 / 0x8;  
